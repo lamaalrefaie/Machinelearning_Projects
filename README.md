@@ -11,9 +11,10 @@ We have employed the **Passive Aggressive Classifier** algorithm for the news cl
 The data used for this project can be accessed from [Kaggle](https://www.kaggle.com/c/fake-news/data).
 
 ## Getting Started
-1. Clone this repository.
-2. Download the dataset from the provided Kaggle link.
-3. Follow the instructions in the setup section to install necessary packages and dependencies.
-4. Data Preprocessing
-5. EDA
-6. Apply Algorithms
+1. Download the dataset from the provided Kaggle link.
+2. install necessary packages and dependencies.
+3. Data Preprocessing
+4. Exploratory Data Analytics (EDA)
+5. Apply Algorithms
+6. Test Model
+
